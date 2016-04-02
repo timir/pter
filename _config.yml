@@ -5,7 +5,7 @@ locale: en_US
 description: Describe your website here.
 logo: site-logo.png
 search: true
-url: http://timir.github.io
+url: http://timir.github.io/pter
 
 # Jekyll configuration
 
