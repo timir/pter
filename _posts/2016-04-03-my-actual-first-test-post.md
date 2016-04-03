@@ -2,10 +2,10 @@
 layout: post
 title: My Actual First Test Post
 modified:
-categories:
+categories:blog
 excerpt:
 tags: []
-image:
+image: so-simple-sample-image-5.jpg
   feature:
 date: 2016-04-03T10:42:44+05:30
 ---
