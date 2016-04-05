@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MathJax Examples
+title: MathJax Examplesssss
 modified: null
 categories: blog
 excerpt: null
