@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JHello World"
+title: "Jhello world"
 modified:
 categories: blog
 excerpt:
